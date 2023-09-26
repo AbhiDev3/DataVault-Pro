@@ -10,6 +10,9 @@ DataVault Pro is a revolutionary decentralized platform designed to empower comp
 
 Our inspiration for the DataVault Pro platform came from the need to revolutionize data management, collaboration, user empowerment, and low-cost permanent files in a decentralized manner. We recognized the growing demand for a secure and efficient solution to curate, collaborate, and create decentralized valuable datasets. Additionally, we saw the opportunity to bridge the gap between centralized data pools and the decentralized Filecoin network, allowing users to seamlessly onboard valuable data onto a secure and transparent platform.
 
+Check our video demo: 
+https://youtu.be/EX0jxL5XFBo
+
 ## Features
 
 - Create decentralized databases (DBs) and request contributions from others.
