@@ -2,7 +2,7 @@
 ```markdown
 # DataVault Pro
 
-This is build during[ Open Data Hackathon]([url](https://www.encode.club/open-data-hack))
+This is build during [Open Data Hackathon]([url](https://www.encode.club/open-data-hack))
 
 DataVault Pro is a revolutionary decentralized platform designed to empower companies and groups in managing and curating valuable datasets. By seamlessly integrating the Bacalhau server, improved dealClient contract, and new multisig features, DataVault Pro provides a secure and efficient solution for data collaboration, verifiable computations, and storage on the Filecoin network.
 
