@@ -62,11 +62,3 @@ DataVault Pro leverages the following technologies:
 
 - **Polybase**: Integration for storing job bounty proposals and mapping from IPFS CIDs to Filecoin information.
 
-
-
----
-
-Feel free to adapt and expand this template further to provide comprehensive information about your project. A well-documented README file is crucial for attracting users and contributors to your platform.
-```
-
-Simply copy the entire snippet and paste it into your project's README file, replacing the placeholders and adding any specific details you may have.
